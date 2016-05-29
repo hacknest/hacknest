@@ -1,9 +1,7 @@
-<p align="center">
-    <img src="assets/logo/hacknest.png" width="35%"/>
-</p>
+# <img src="assets/logo/hacknest.png" width="10%"/> Hack Nest
 
-# Hack Nest
+Find out when the next meet is by pinging the [#hack-time](https://sfudev.slack.com/messages/hack-time/) channel, or take the lead and organize one for us to come to. In the meantime, here is a list of our hacks-to-date:
 
 |   Date   	| Project Name 	|       Theme       	| Repository 	|
 |:--------:	|:------------:	|:-----------------:	|:----------:	|
-| `05/28/16`|     /poll    	| Slack Integration 	|            	|
+| `05/28/16`|     /poll    	| Slack Integration 	|         [slack-poll](https://github.com/mingchia-andy-liu/slack-poll)   	|
