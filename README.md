@@ -6,4 +6,4 @@
 
 |   Date   	| Project Name 	|       Theme       	| Repository 	|
 |:--------:	|:------------:	|:-----------------:	|:----------:	|
-| 05/28/16 	|     /poll    	| Slack Integration 	|            	|
+| `05/28/16`|     /poll    	| Slack Integration 	|            	|
