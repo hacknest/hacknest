@@ -4,4 +4,4 @@ Find out when the next meet is by pinging the [#hack-time](https://sfudev.slack.
 
 |   Date   	| Project Name 	|       Theme       	| Repository 	|
 |:--------:	|:------------:	|:-----------------:	|:----------:	|
-| `05/28/16`|     /poll    	| Slack Integration 	|         [slack-poll](https://github.com/mingchia-andy-liu/slack-poll)   	|
+| `05/28/16`|     /poll    	| Slack Integration 	|         [slack-poll](https://github.com/hacknest/slack-poll)   	|
